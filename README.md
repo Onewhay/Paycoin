@@ -1,0 +1,2 @@
+# Paycoin
+One coin
